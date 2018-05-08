@@ -25,10 +25,10 @@ The project itself is broken down into three large parts, then even further into
 
 ## Results
 
-![Face and Eye detection](results/face_detection_1)
+![Face and Eye detection](results/face_detection_1.png)
 
-![Blurring the face to protect identity](results/face_detection_2)
+![Blurring the face to protect identity](results/face_detection_2.png)
 
-![Detecting distinctive features of face](results/face_detection_3)
+![Detecting distinctive features of face](results/face_detection_3.png)
 
-![Overlaying image of sunglasses on the eyes](results/face_detection_4)
+![Overlaying image of sunglasses on the eyes](results/face_detection_4.png)
