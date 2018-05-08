@@ -23,12 +23,13 @@ The project itself is broken down into three large parts, then even further into
 
 * **Step 8**: Build a Robust Facial Keypoints Detector (Complete the CV Pipeline)
 
-## Results
+# Results
+* Face and eye detection
 
-![Face and Eye detection](results/face_detection_1.png)
-
+![Face and eye detection](results/face_detection_1.png)
+* Blurring the face to protect identity
 ![Blurring the face to protect identity](results/face_detection_2.png)
-
+* Detecting distinctive features of face
 ![Detecting distinctive features of face](results/face_detection_3.png)
-
+* Overlaying image of sunglasses on the eyes
 ![Overlaying image of sunglasses on the eyes](results/face_detection_4.png)
